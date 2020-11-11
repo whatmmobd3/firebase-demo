@@ -1,1 +1,1 @@
-npm i firebase angularfire2 --save
+npm i firebase @angular/fire --save
